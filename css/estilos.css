@@ -1,0 +1,22 @@
+/*
+En bootstrap ya no se realiza esto: * {
+  box-sizing: border-box;
+}
+*/
+header,footer
+  {
+  background-color:#2d3142;
+  color: #fff;
+  height: 100px;
+}
+.contenedor-principal{
+  min-height: calc(100vh - 200px) ;
+}
+main{
+  background-color: #d8d5db;
+}
+
+aside{
+  background-color: #adacb5;
+}
+
